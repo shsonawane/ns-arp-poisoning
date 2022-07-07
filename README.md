@@ -1,0 +1,2 @@
+# ns-arp-poisoning
+In this project we will perform passive attack using ARP poisoning to compromise data integrity and confidentiality to exploit security flaws of established network infrastructure. We will also implement various attack detection and prevention techniques against ARP poisoning. We use various packet filter tools, Anti-ARP tools and more to do so. For smaller networks, we will be using static ARP tables and static IP addresses, an effective solution against ARP poisoning.
